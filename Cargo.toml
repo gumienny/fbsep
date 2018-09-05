@@ -1,0 +1,6 @@
+[package]
+name = "fbsep"
+version = "0.1.0"
+authors = ["gumienny <mkgumienny@gmail.com>"]
+
+[dependencies]
